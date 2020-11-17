@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1604353516 source:c:\users\kenny\onedrive\escritorio\serpiente\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
+1605484848 source:c:\users\kenny\onedrive\escritorio\serpientev2\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
